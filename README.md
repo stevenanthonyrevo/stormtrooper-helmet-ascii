@@ -1,7 +1,7 @@
 
 # Star Wars Day (May 4th) Stormtropper Helmet Ascii 
 
-![3d model stormtrooper helmet in Ascii art style](https://github.com/stevenanthonyrevo/stormtrooper-helmet-ascii/blob/main/assets/stormtrooper-ascii.jpg?raw=true)
+![3d model stormtrooper helmet in Ascii art style](https://github.com/stevenanthonyrevo/stormtrooper-helmet-ascii/blob/main/assets/stormtrooper-ascii.jpeg?raw=true)
 
 A 3d model stormtrooper helmet in Ascii art style with rotation and zoom.  
 
